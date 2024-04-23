@@ -15,3 +15,6 @@
 
 ****
 
+<div id="footer" align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5hZmFma2xmZXp5YWl6dmlseHF3eHN6MjJuZDhndzJiZTcwc3l0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ibolLe3mOqHE3PQTtk/giphy.gif" width="300px" />  
+</div>
